@@ -1,0 +1,25 @@
+body {
+    margin: 10% auto;
+    width: 50%;
+    border: 3px solid;
+
+    padding: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgba(255, 255, 255, 0.9);
+    background: rgb(2,0,10);
+    background: linear-gradient(165deg, rgba(2,0,10,1) 7%, rgba(8,8,98,1) 46%, rgba(0,134,221,1) 87%);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    border-radius: 50%;
+    border: 2.5px solid;
+}
+
+a:link {
+    color: rgb(67, 159, 221);
+    background-color: transparent;
+  }
